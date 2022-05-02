@@ -1,5 +1,4 @@
 package com.mytech.api.models;
-import jdk.nashorn.internal.ir.annotations.Immutable;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
